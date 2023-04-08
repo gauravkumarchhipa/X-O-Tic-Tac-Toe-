@@ -1,4 +1,6 @@
 # X-O-Tic-Tac-Toe-
+# Using Technology
+HTML, CSS, JavaScript
 # screen shorts
 ![Screenshot (483)](https://user-images.githubusercontent.com/93989396/219433880-8d865c24-bb03-45ca-b8c2-a2e93c53926c.png)
 ![Screenshot (484)](https://user-images.githubusercontent.com/93989396/219433906-c9ceb378-f37e-42ed-ae69-b213ad2d0363.png)
